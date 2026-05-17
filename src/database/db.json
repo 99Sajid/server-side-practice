@@ -1,8 +1,62 @@
-[
+ [
     {
-        "id":1,
-        "name":"product-1",
-        "price":"1cr",
-        "description":"this is product 1"
+      "id": 1,
+      "name": "iPhone 15 Pro Max",
+      "price": "189999 BDT",
+      "description": "Apple flagship smartphone with A17 Pro chip, titanium body, and advanced camera system."
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy S24 Ultra",
+      "price": "174999 BDT",
+      "description": "Premium Android smartphone featuring Snapdragon processor, S-Pen support, and 200MP camera."
+    },
+    {
+      "id": 3,
+      "name": "MacBook Air M3",
+      "price": "164999 BDT",
+      "description": "Lightweight Apple laptop powered by the M3 chip with excellent battery life and performance."
+    },
+    {
+      "id": 4,
+      "name": "Sony WH-1000XM5",
+      "price": "42999 BDT",
+      "description": "Wireless noise-cancelling headphones with premium sound quality and long battery backup."
+    },
+    {
+      "id": 5,
+      "name": "Dell XPS 15",
+      "price": "219999 BDT",
+      "description": "High-performance ultrabook with Intel Core i7 processor and InfinityEdge display."
+    },
+    {
+      "id": 6,
+      "name": "Apple Watch Series 9",
+      "price": "54999 BDT",
+      "description": "Smartwatch with fitness tracking, ECG support, and seamless iPhone integration."
+    },
+    {
+      "id": 7,
+      "name": "Canon EOS R50",
+      "price": "97999 BDT",
+      "description": "Mirrorless camera designed for content creators with 4K video recording support."
+    },
+    {
+      "id": 8,
+      "name": "PlayStation 5",
+      "price": "74999 BDT",
+      "description": "Next-generation gaming console from Sony with ultra-fast SSD and ray tracing support."
+    },
+    {
+      "id": 9,
+      "name": "Asus ROG Strix G16",
+      "price": "189999 BDT",
+      "description": "Gaming laptop equipped with RTX graphics card and high refresh rate display."
+    },
+    {
+      "id": 10,
+      "name": "Xiaomi Smart TV 55 Inch 4K",
+      "price": "64999 BDT",
+      "description": "4K UHD smart television with Android TV features and Dolby Audio support."
     }
-]
+  ]
